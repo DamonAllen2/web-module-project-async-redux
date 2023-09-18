@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  color: white;
+}
+
+.title {
+  height: 5rem;
+  padding-top: 1.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: sans-serif;
+  color: ;
 }
 
 .App-logo {
